@@ -19,13 +19,13 @@ To claim this, I am signing this object:
       "username": "jesuscoinsiv"
     },
     "merkle_root": {
-      "ctime": 1721635754,
-      "hash": "5d0908df975917e4a4516c2e3887d8fbe057f50d1b626a5b72de54e2ce207bb0eb5c31b67c3f9000bfec30cad7375a98647656addab95ccabef495542a44c6d8",
-      "hash_meta": "e047c1fd2292af752e42194226eaa77a48b9616b4a934089c17c32ebb33b1591",
-      "seqno": 25939679
+      "ctime": 1721877635,
+      "hash": "017c7a062b2c2bcead0dc4c24d4d5a3076dbe37c68e1278284cb824043b8a288153815651094690c7494241376050981952a68ffa609e3623e6d66b33ce9eefc",
+      "hash_meta": "5d9cf41cc02a8fadd6d73e065baddc08c4f84ca3652e9914599fff00d510ccb5",
+      "seqno": 25949049
     },
     "service": {
-      "entropy": "hMc2dSYhCvFtRzDCACpLWSh3",
+      "entropy": "w+B+XMdbLq1wrIND5qi+5Zh9",
       "name": "github",
       "username": "jesuscoinsiii"
     },
@@ -36,10 +36,10 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "6.3.1"
   },
-  "ctime": 1721635823,
+  "ctime": 1721877707,
   "expire_in": 504576000,
-  "prev": "c0ff54035171ffa8826e5aa92dd17a5b77b43bef92d3eb319ab03316bd3744ca",
-  "seqno": 41,
+  "prev": "c29a56a639b1bf0cc4695a1ae8b0fe0e84f106d653a8eabe6ea62447b161c98b",
+  "seqno": 47,
   "tag": "signature"
 }
 ```
@@ -47,7 +47,7 @@ To claim this, I am signing this object:
 with the key [ASBf4RmZlmHT-5uT97w0yDFhtVZv74J7ln4TiushnybcHwo](https://keybase.io/jesuscoinsiv), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgX+EZmZZh0/ubk/e8NMgxYbVWb++Ce5Z+E4rrIZ8m3B8Kp3BheWxvYWTESpcCKcQgwP9UA1Fx/6iCblqpLdF6W3e0O++S0+sxmrAzFr03RMrEIH7lY1hqRF9tlXiszJvEHVAGH6ysLF1Wu49dF9pFYQOiAgHCo3NpZ8RAh6Q/hepGHwZk8y4nyduV/PD/BD/kOJCNG5970eeQXti/kUyYvsU/FR1duwMQOt+r6SOpMl6qtdhwFRkjbM2cD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINrzF+5PB9UArYypqaJ2pK9qBD44Asluo2aXRkp4hDAzo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgX+EZmZZh0/ubk/e8NMgxYbVWb++Ce5Z+E4rrIZ8m3B8Kp3BheWxvYWTESpcCL8QgwppWpjmxvwzEaVoa6LD+DoTxBtZTqOq+bqYkR7FhyYvEIM6G5EcTz3qi96wxvQVf6fX9Y+z63SlSMqRYWf4rF8zYAgHCo3NpZ8RAo0gZhKzbc9mknD+V4X271nOE8gFoDCqdSGZxc/EvdXC1bxDnVT7kOc/ZSV5VXu2is0ijB/9sBDDuyKFxfKwxAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICMiCAwSaB19Mr9p1Xsjq8Q8mcZKCJaEkkfDgcK/FPyNo3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 

@@ -2,7 +2,7 @@
 
 I hereby claim:
 
-  * I am jesuscoinsiii on github.
+  * I am JesuscoinsIII on github.
   * I am jesuscoinsiv (https://keybase.io/jesuscoinsiv) on keybase.
   * I have a public key ASBf4RmZlmHT-5uT97w0yDFhtVZv74J7ln4TiushnybcHwo
 

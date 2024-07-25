@@ -27,7 +27,7 @@ To claim this, I am signing this object:
     "service": {
       "entropy": "w+B+XMdbLq1wrIND5qi+5Zh9",
       "name": "github",
-      "username": "jesuscoinsiii"
+      "username": "jesuscoinsIII"
     },
     "type": "web_service_binding",
     "version": 2

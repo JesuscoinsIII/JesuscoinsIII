@@ -1,8 +1,20 @@
-  👋 Hello World!   
-  👀 I’m interested in building cool physical backed asset models using land, vehicles, airplanes, and event space.
-  🌱 I am currently learning github and stripe
-  🅿️ I aam looking for some awesome front-end and backend developers to help build the future of movement! 
-  📫 You can reach me at nfvnetwork.eth  
+  👋 Hello World, I love you all no despite our flaws!
+  
+  👀 I’m interested in building cool physical backed asset models using backing the models with anything and everything to bring people together with positive energy!
+  
+  🌱 I am currently learning everything from github to stripe!
+  
+  🅿️ I aam looking for some awesome front-end and backend developers with the help of business experts to help build the future of movement and undrestanding of people! 
+  
+  📫 You can reach me at:
+  
+  Discord : https://discord.gg/rcqqATag
+  
+  Instagram : https://www.instagram.com/ryanbutler776/
+  
+  Ethereum : https://nfvnetwork.eth  
+  
+  Keybase : @jesuscoinssiv
 <!---
 JesuscoinsIII/JesuscoinsIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

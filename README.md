@@ -1,6 +1,6 @@
   👋 Hello World, I love you all no despite our flaws!
   
-  👀 I’m interested in building cool physical backed asset models using backing the models with anything and everything to bring people together with positive energy!
+  👀 I’m interested in building cool physical backed asset models with love, location, and places to bring people together with positive energy!
   
   🌱 I am currently learning everything from github to stripe!
   

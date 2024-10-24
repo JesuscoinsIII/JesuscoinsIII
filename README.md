@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 💡 **My Recent Projects** 💡
-- 🚀 **[Project 1](https://github.com/yourusername/project1](https://github.com/JesuscoinsIII/awesome))**: A cool project to change the world!
+- 🚀 **[Project 1](https://github.com/JesuscoinsIII/awesome)**: A cool project to change the world!
 - 🌟 **[Project 2](https://github.com/JesuscoinsIII/awesome-sysadmin)**: Another fun project full of learning and joy.
 - 🛠️ **[Project 3](https://github.com/modaldeveloper/gnikarp/tree/add-parking-location)**: Building something awesome!
 

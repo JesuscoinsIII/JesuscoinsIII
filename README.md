@@ -8,7 +8,7 @@
   
   📫 You can reach me at:
   
-  Discord : https://discord.gg/rcqqATag
+  Discord Greenpill Network:  ----> https://discord.gg/adKJJbZz
   
   Instagram : https://www.instagram.com/ryanbutler776/
   

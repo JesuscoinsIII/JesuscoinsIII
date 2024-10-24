@@ -31,6 +31,7 @@ I'm passionate about coding, solving problems, and bringing ideas to life. When 
 ---
 
 🎇 **Bright Ideas, Bright Future** 🎇  
+
 🌈💻 Keep the code colorful, and keep the dreams alive! 💻🌈
 
 
@@ -41,7 +42,11 @@ I'm passionate about coding, solving problems, and bringing ideas to life. When 
   **Instagram:** ----> https://www.instagram.com/ryanbutler776/
   
   **ENS:** ----> https://nfvnetwork.eth  
-  
-  **Keybase:** ----> @jesuscoinssiv
+
+  **Hack.MD** ----> https://hackmd.io/@LoveNet
+
+  **Linkedin** ----> https://www.linkedin.com/in/jesuscoins/
 
   **Website:** ----> https://stadiumparking.org
+
+  

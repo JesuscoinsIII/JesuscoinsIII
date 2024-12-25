@@ -5,26 +5,22 @@ You can click the Preview link to take a look at your changes. This is for anybo
 
 # Welcome to My GitHub! 🚀
 
-👋 Hi there! I'm [Your Name], and this is my little corner of the internet where I work on all things **tech** and **creative**.
+👋 Hi there! I'm Ryan, and this is my little corner of the internet where I work on all things **tech** and **creative**.
 
-✨✨ **Lights, Action, Code!** ✨✨
 
-🔴🔵🟣 **🚧 Working on NFVnetwork! 🚧** 🟣🔵🔴  
-
-![Green Light](https://media.giphy.com/media/3o7abKGM3Xa3tna8hy/giphy.gif)
-
-🟢🟡🔴 **Pushing to master Chain...** 🔴🟡🟢
+🔵🟣 **🚧 Working on NFVnetwork! 🚧** 🟣🔵 
 ---
 
 💡 **My Recent Projects** 💡
-- 🚀 **[Project 1](https://github.com/JesuscoinsIII/awesome)**: A cool project to change the world!
-- 🌟 **[Project 2](https://github.com/JesuscoinsIII/awesome-sysadmin)**: Another fun project full of learning and joy.
-- 🛠️ **[Project 3](https://github.com/modaldeveloper/gnikarp/tree/add-parking-location)**: Building something awesome!
+  ## Working on....
+- 🚀 **[NFVnetwork](https://github.com/JesuscoinsIII/NFV-Network)**: A cool project to change the world!
+  ## Cool Projects...
+- 🌟 **[awesome](https://github.com/JesuscoinsIII/awesome-sysadmin)**: Another fun project full of learning and joy.
 
 ---
 
 ### ⚡ About Me ⚡
-I'm passionate about coding, solving problems, and bringing ideas to life. When I'm not coding, I'm probably dreaming up new ways to make the world more fun. 🌍🎮
+I am really into regenerative transportation and land initiatives within awesome ecosystems. 
 
 🔔 Stay tuned for more updates, because there's always something exciting in the works!
 
@@ -32,21 +28,19 @@ I'm passionate about coding, solving problems, and bringing ideas to life. When 
 
 🎇 **Bright Ideas, Bright Future** 🎇  
 
-🌈💻 Keep the code colorful, and keep the dreams alive! 💻🌈
+🌈💻 Prosper from a greener world! 💻🌈
 
 
   📫 You can reach me at:
 
-  **Discord Greenpill Network:** ----> https://discord.gg/adKJJbZz
+
+  **[Greenpill Network](https://discord.gg/adKJJbZz)**
+
+  **[Twitter](https://x.com/nfvnetwork)**
   
-  **Instagram:** ----> https://www.instagram.com/ryanbutler776/
-  
-  **ENS:** ----> https://nfvnetwork.eth  
+  **[ENS](https://nfvnetwork.eth)**  
 
-  **Hack.MD** ----> https://hackmd.io/@LoveNet
+  **[NFV Network](https://www.nfvnetwork.xyz)**
 
-  **Linkedin** ----> https://www.linkedin.com/in/jesuscoins/
-
-  **Website:** ----> https://www.nfvnetwork.xyz
 
   

@@ -3,7 +3,8 @@ JesuscoinsIII/JesuscoinsIII is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes. This is for anybody and everybody! #namste
 --->
 
-# Welcome to My GitHub! 🚀
+# <center>Welcome to My GitHub! 🚀
+![new-logo](https://github.com/user-attachments/assets/36658597-7422-43dd-8a1d-b8dc07eb29a6)</center
 
 👋 Hi there! I'm Ryan, and this is my little corner of the internet where I work on all things **tech** and **creative**.
 

@@ -4,7 +4,6 @@ You can click the Preview link to take a look at your changes. This is for anybo
 --->
 
 # <center>Welcome to My GitHub! 🚀
-![image](https://github.com/user-attachments/assets/21574c43-35d6-4deb-874c-cdeb843605a9)
 
 
 👋 Hi there! I'm Ryan, and this is my little corner of the internet where I work on all things **tech** and **creative**.

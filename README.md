@@ -6,10 +6,10 @@ You can click the Preview link to take a look at your changes. This is for anybo
 # <center>Welcome to My GitHub! 🚀
 keybase://chat/jesuscoinsiv,spacejesus/25
 
-👋 Hi there! I'm Ryan, and this is my little corner of the internet where I work on all things **tech** and **creative**.
+👋 Hi there! I'm Ryan, and this is my little corner of the internet where I work on all things **decentralized** and **transportation**.
 
 
-🔵🟣 **🚧 Working on NFVnetwork! 🚧** 🟣🔵 
+🔵🟣 **🚧 Working on Kingdom Compass Holdings! 🚧** 🟣🔵 
 ---
 
 💡 **My Recent Projects** 💡
@@ -17,6 +17,7 @@ keybase://chat/jesuscoinsiv,spacejesus/25
 - 🚀 **[NFVnetwork](https://github.com/JesuscoinsIII/NFV-Network)**: A cool project to change the world!
   ## Cool Projects...
 - 🌟 **[awesome](https://github.com/JesuscoinsIII/awesome-sysadmin)**: Another fun project full of learning and joy.
+- **[KCH](https://github.com/JesuscoinsIII/kingdom-compass-control-plane)**
 
 ---
 
@@ -37,11 +38,9 @@ I am really into regenerative transportation and land initiatives within awesome
 
   **[Greenpill Network](https://discord.gg/adKJJbZz)**
 
-  **[Twitter](https://x.com/nfvnetwork)**
-  
   **[ENS](https://nfvnetwork.eth)**  
 
-  **[NFV Network](https://www.nfvnetwork.xyz)**
+
 
 
   

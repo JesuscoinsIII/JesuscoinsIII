@@ -1,5 +1,5 @@
-<img width="362" height="362" alt="image" src="https://github.com/user-attachments/assets/1b65ceb9-b1e3-4ed4-a63f-cf545f1c5511" />
-<!---
+<img width="1024" height="1024" alt="Kingdom-Compass-Holdings-logo" src="https://github.com/user-attachments/assets/96ba68af-c05a-4848-891f-de215b6c7e25" />
+!---
 JesuscoinsIII/JesuscoinsIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. This is for anybody and everybody! #namste
 --->
